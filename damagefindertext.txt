@@ -1,0 +1,68 @@
+<div id="damagefind" class="secdia">
+					<div class="padding">
+						<h2 class="title">Damage finder</h2>
+						<hr class="nomargin">
+						<div class="center small faded bold">VS</div>
+						<div class="statCont clearfix">
+							
+							<div class="stLeft">
+								<div class="statbox tali">
+									<div class="statsLevels">
+									<div><span style="float:left" class="blue">Your stats</span>  <span class="stat" id="slstatm">120</span> <img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:0px 0px;" class="statsIco"/>
+										<hr class="nomargin">
+										</div>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-18px 0px;" class="statsIco"/> <span class="stat" id="vtstatm">50</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-36px 0px;" class="statsIco"/> <span class="stat" id="atstatm">14</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-54px 0px;" class="statsIco"/> <span class="stat" id="edstatm">35</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-72px 0px;" class="statsIco"/> <span class="stat" id="ststatm">27</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-90px 0px;" class="statsIco"/> <span class="stat" id="dxstatm">45</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-108px 0px;" class="statsIco"/> <span class="stat" id="rsstatm">12</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-126px 0px;" class="statsIco"/> <span class="stat" id="itstatm">11</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-144px 0px;" class="statsIco"/> <span class="stat" id="ftstatm">9</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-162px 0px;" class="statsIco"/> <span class="stat" id="hmstatm">99</span>
+									</div>
+									<div class="statsDefs">
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:0px 0px;" class="defsIco"/> <span class="stat" id="phystatm">500.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-18px 0px;" class="defsIco"/> <span class="stat" id="magstatm">140.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-36px 0px;" class="defsIco"/> <span class="stat" id="firstatm">350.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-54px 0px;" class="defsIco"/> <span class="stat" id="lghstatm">270.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-72px 0px;" class="defsIco"/> <span class="stat" id="poistatm">450</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-90px 0px;" class="defsIco"/> <span class="stat" id="blestatm">120.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-108px 0px;" class="defsIco"/> <span class="stat" id="psnstatm">110.0</span>
+										<hr class="nomargin">
+									</div>
+								</div>
+							</div>
+							
+							<div class="stRight">
+								<div class="statbox">
+									<div class="statsLevels">
+									<div style="text-align:left;"><img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:0px 0px;" class="statsIco"/> <span class="stat" id="slstatm">120</span> <span style="float:right" class="deepred">Their stats</span>
+										<hr class="nomargin">
+										</div>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-18px 0px;" class="statsIco"/> <span class="stat" id="vtstath">50</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-36px 0px;" class="statsIco"/> <span class="stat" id="atstath">14</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-54px 0px;" class="statsIco"/> <span class="stat" id="edstath">35</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-72px 0px;" class="statsIco"/> <span class="stat" id="ststath">27</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-90px 0px;" class="statsIco"/> <span class="stat" id="dxstath">45</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-108px 0px;" class="statsIco"/> <span class="stat" id="rsstath">12</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-126px 0px;" class="statsIco"/> <span class="stat" id="itstath">11</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-144px 0px;" class="statsIco"/> <span class="stat" id="ftstath">9</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-162px 0px;" class="statsIco"/> <span class="stat" id="hmstath">99</span>
+									</div>
+									<div class="statsDefs">
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:0px 0px;" class="defsIco"/> <span class="stat" id="phystath">500.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-18px 0px;" class="defsIco"/> <span class="stat" id="magstath">140.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-36px 0px;" class="defsIco"/> <span class="stat" id="firstath">350.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-54px 0px;" class="defsIco"/> <span class="stat" id="lghstath">270.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-72px 0px;" class="defsIco"/> <span class="stat" id="poistath">450</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-90px 0px;" class="defsIco"/> <span class="stat" id="blestath">120.0</span>
+										<img src="//static.mugenmonkey.com/img/transparent.png" width="18" height="18" style="background-position:-108px 0px;" class="defsIco"/> <span class="stat" id="psnstath">110.0</span>
+										<hr class="nomargin">
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>http://mugenmonkey.com/</loc>
+   </url>
+	<url>
+      <loc>http://mugenmonkey.com/darksouls/</loc>
+   </url>
+    <url>
+      <loc>http://mugenmonkey.com/darksouls/builds</loc>
+   </url>
+   <url>
+      <loc>http://mugenmonkey.com/darksouls/calcs</loc>
+   </url>
+   <url>
+      <loc>http://mugenmonkey.com/darksouls/faq</loc>
+   </url>
+   <url>
+      <loc>http://mugenmonkey.com/darksouls/weapons</loc>
+   </url>
+   <url>
+      <loc>http://mugenmonkey.com/darksouls/finder</loc>
+   </url>
+   <url>
+      <loc>http://mugenmonkey.com/darksouls/armor</loc>
+   </url>
+   <url>
+      <loc>http://mugenmonkey.com/borderlands2.php</loc>
+   </url>
+
+</urlset>

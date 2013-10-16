@@ -1,0 +1,28 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks -MultiViews
+  RewriteEngine On
+</IfModule>
+
+RewriteBase /darksouls/
+RewriteRule ^faq$  faq.php
+RewriteRule ^builds$  builds.php
+RewriteRule ^calcs$  calcs.php
+RewriteRule ^finder$  finder.php
+RewriteRule ^weapons$  weapons.php
+RewriteRule ^register$  reg.php
+RewriteRule ^account$  acc.php
+RewriteRule ^login$  login.php
+RewriteRule ^logout$  logout.php
+RewriteRule ^take$  take.php
+RewriteRule ^manage$  manage.php
+RewriteRule ^share$  share.php
+RewriteRule ^favorites$  fav.php
+RewriteRule ^recover$  recov.php
+RewriteRule ^reset$  reset.php
+RewriteRule ^local$  local.php
+RewriteRule ^armor$  armor.php
+RewriteRule ^admin$  administrate.php
+RewriteRule ^post$  comment_post.php
+#RewriteCond %{REQUEST_URI} ^\/darksouls\/profile$
+RewriteRule ^profile$  profile.php
+RewriteRule ^top$  top.php
